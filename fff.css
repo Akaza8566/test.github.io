@@ -1,0 +1,19 @@
+.toggle-btn{
+    left: 105%;
+    top: 15px;
+    float: left;
+    margin-top: 300px;
+}
+
+.toggle-btn span{
+    display: block;
+    background-color: black;
+    width: 28px;
+    height: 3px;
+    margin: 4px;
+}
+
+.tt{
+    text-align: center;
+    margin-top: -325px;
+}
