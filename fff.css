@@ -2,18 +2,21 @@
     left: 105%;
     top: 15px;
     float: left;
-    margin-top: 298px;
+    margin-top: -3px;
 }
 
 .toggle-btn span{
     display: block;
     background-color: black;
-    width: 70px;
-    height: 7px;
-    margin: 15px;
+    width: 31px;
+    height: 3px;
+    margin: 5px;
 }
 
 .tt{
-    text-align: center;
-    margin-top: 325px;
+    float: right;
+    margin-right: 130px;
+    margin-top: -15px;
+    font-style: inherit;
+    font-size: large;
 }
