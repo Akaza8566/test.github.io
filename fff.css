@@ -8,7 +8,7 @@
 .toggle-btn span{
     display: block;
     background-color: black;
-    width: 41px;
+    width: 42px;
     height: 6px;
     margin: 7px;
 }
@@ -16,7 +16,7 @@
 .tt{
     float: right;
     margin-right: -500px;
-    margin-top: -46px;
+    margin-top: -45px;
     font-style: inherit;
     font-size: 38px;
 }
