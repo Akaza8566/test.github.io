@@ -8,9 +8,9 @@
 .toggle-btn span{
     display: block;
     background-color: black;
-    width: 46px;
-    height: 6px;
-    margin: 8px;
+    width: 40px;
+    height: 4px;
+    margin: 5px;
 }
 
 .tt{
@@ -18,5 +18,5 @@
     margin-right: -500px;
     margin-top: -41px;
     font-style: inherit;
-    font-size: 38px;
+    font-size: 32px;
 }
